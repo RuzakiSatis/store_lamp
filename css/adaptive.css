@@ -1,0 +1,42 @@
+@media(max-width:500px){
+    .main_slide_price_boxOne h3, 
+    .main_slide_price_boxTwo h3 {
+        font-size: 18px;
+    }
+    .main_slide_description_TKP li, 
+    .main_slide_description_detals p{
+        font-size: 15px;
+    }
+    .img_size {
+        max-width: 320px;
+    }
+    .img_delivery {
+        max-width: 320px;
+    }
+    .header_block_title {
+        font-size: 20px;
+    }
+    #windowOne_block,
+    #windowTwo_block,
+    #windowThree_block,
+    #windowFour_block,
+    #windowFive_block {
+        width: 300px;
+    }
+}
+@media(max-width:400px){
+    .img_size {
+        max-width: 260px;
+    }
+    .img_delivery {
+        max-width: 260px;
+    }
+    .main_slide_description_TKP li, 
+    .main_slide_description_detals p{
+        font-size: 12px;
+    }
+    .left_coments input{
+        width: 200px;
+    }
+    
+}
